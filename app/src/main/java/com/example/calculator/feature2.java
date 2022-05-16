@@ -14,4 +14,17 @@ public class feature2 {
     public void setB(int b) {
         this.b = b;
     }
+    float cgpa;
+
+    public feature2(float cgpa) {
+        this.cgpa = cgpa;
+    }
+
+    public float getCgpa() {
+        return cgpa;
+    }
+
+    public void setCgpa(float cgpa) {
+        this.cgpa = cgpa;
+    }
 }
