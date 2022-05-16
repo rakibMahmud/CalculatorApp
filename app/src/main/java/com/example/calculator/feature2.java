@@ -23,8 +23,4 @@ public class feature2 {
     public double getIncome() {
         return income;
     }
-
-    public void setIncome(double income) {
-        this.income = income;
-    }
 }
